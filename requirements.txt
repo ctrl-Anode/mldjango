@@ -1,0 +1,7 @@
+django
+pandas
+numpy
+keras
+tensorflow
+joblib
+scikit-learn
